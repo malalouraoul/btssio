@@ -6,7 +6,7 @@ Bienvenue sur mon portfolio professionnel réalisé dans le cadre du **BTS Servi
 
 ## 🎯 Qui suis-je ?
 
-Je m'appelle **[Votre Prénom NOM]**, étudiant(e) en **BTS SIO** — option **[SISR / SLAM]** au sein de **[Nom de votre établissement]**.
+Je m'appelle **raoul**, étudiant(e) en **BTS SIO** — option **[SISR / SLAM]** au sein de **[Nom de votre établissement]**.
 
 Passionné(e) par l'informatique, **[l'administration des systèmes et réseaux / le développement d'applications et la conception logicielle]** ainsi que la **cybersécurité**, je développe mes compétences techniques et méthodologiques à travers mes projets d'atelier de professionnalisation, mes travaux pratiques et mes périodes de stage en entreprise.
 
